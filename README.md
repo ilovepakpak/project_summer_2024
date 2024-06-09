@@ -1,11 +1,11 @@
 # project_summer_2024
 NETFLIX BASE - WEBPAGE UI
 ======================
-#  FRONT-END
+  FRONT-END
 HTML , CSS , Javascript 
-#  BACK-END 
+  BACK-END 
 C# ASP.NET Framework
-#  BATABASE
+  BATABASE
 SQL Server , MONGODB 
-# DEPLOY 
+ DEPLOY 
 DOCKER 
