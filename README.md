@@ -6,6 +6,6 @@ HTML , CSS , Javascript
 #  BACK-END 
 C# ASP.NET Framework
 #  BATABASE
-MySQL Server
+SQL Server , MONGODB 
 # DEPLOY 
-DOCKER , RENDER 
+DOCKER 
